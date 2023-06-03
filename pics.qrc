@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pics/blutshuttle.png</file>
+        <file>pics/logo.png</file>
+    </qresource>
+</RCC>
